@@ -1,16 +1,16 @@
 "# JWT Token Authentication project" 
-F:\Shankar\Python\DurgaSoft\projects\api\src\jwt_token_auth>echo "# JWT Token Authentication project" >> README.md
+<path>jwt_token_auth>echo "# JWT Token Authentication project" >> README.md
 
-F:\Shankar\Python\DurgaSoft\projects\api\src\jwt_token_auth>git add README.md
+<path>\jwt_token_auth>git add README.md
 
-F:\Shankar\Python\DurgaSoft\projects\api\src\jwt_token_auth>git commit -m "readme file commit"
+<path>\jwt_token_auth>git commit -m "readme file commit"
 [master 231489d] readme file commit
  1 file changed, 1 insertion(+)
  create mode 100644 README.md
 
-F:\Shankar\Python\DurgaSoft\projects\api\src\jwt_token_auth>git remote add origin https://github.com/sankar-bathula/auth_jwt_token.git
+<path>\jwt_token_auth>git remote add origin https://github.com/sankar-bathula/auth_jwt_token.git
 
-F:\Shankar\Python\DurgaSoft\projects\api\src\jwt_token_auth>git push -u origin master
+<path>\jwt_token_auth>git push -u origin master
 Counting objects: 35, done.
 Delta compression using up to 4 threads.
 Compressing objects: 100% (33/33), done.
@@ -21,4 +21,4 @@ To https://github.com/sankar-bathula/auth_jwt_token.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
-F:\Shankar\Python\DurgaSoft\projects\api\src\jwt_token_auth>
+<path>\jwt_token_auth>
